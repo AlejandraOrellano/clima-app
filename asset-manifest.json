@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/clima-app/static/css/main.bd2f85e7.css",
-    "main.js": "/clima-app/static/js/main.0f5a2c51.js",
+    "main.css": "/clima-app/static/css/main.8ac66af1.css",
+    "main.js": "/clima-app/static/js/main.567d3cc4.js",
     "static/media/sunset.jpg": "/clima-app/static/media/sunset.ce32f7632fa4d26c95e4.jpg",
     "index.html": "/clima-app/index.html",
-    "main.bd2f85e7.css.map": "/clima-app/static/css/main.bd2f85e7.css.map",
-    "main.0f5a2c51.js.map": "/clima-app/static/js/main.0f5a2c51.js.map"
+    "main.8ac66af1.css.map": "/clima-app/static/css/main.8ac66af1.css.map",
+    "main.567d3cc4.js.map": "/clima-app/static/js/main.567d3cc4.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd2f85e7.css",
-    "static/js/main.0f5a2c51.js"
+    "static/css/main.8ac66af1.css",
+    "static/js/main.567d3cc4.js"
   ]
 }
